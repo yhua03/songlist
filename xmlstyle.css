@@ -1,0 +1,34 @@
+Songs{
+     margin:0.5em;
+     font-family:fantasy;
+     width: 100%;  
+     display:block;
+}
+heading { 
+     color: #00238b; 
+     font-size: 45px; 
+     background-color : #9e9393; 
+     text-align: center;
+     display: block;
+} 
+Song{
+    display:block; 
+    border: 1px solid silver;
+    border: 1px; 
+    margin:0.5em;  
+    padding:0.5em;  
+    background-color : #656eba; 
+}
+Name{
+     display: block;
+     color: #f2ff00;
+     font-size: 28px;
+     font-weight: bold;
+}
+Artist,Genre,Year {
+      display: block;
+      color: #000000;
+      text-align: left;
+      font-size: 20px;
+      font-weight: lighter;  
+}
